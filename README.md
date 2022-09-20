@@ -1,7 +1,7 @@
 # Markdown Links
 
 
-[img] (https://raw.githubusercontent.com/Deleina/LIM018-md-links/Deleina/md-Links.png)
+ (https://raw.githubusercontent.com/Deleina/LIM018-md-links/Deleina/md-Links.png)
 
 
 
