@@ -32,8 +32,7 @@ la información que se quiere compartir.
 Dentro de una comunidad de código abierto, nos han propuesto crear una
 herramienta usando [Node.js](https://nodejs.org/), que lea y analice archivos
 en formato `Markdown`, para verificar los links que contengan y reportar
-algunas estadísticas.![mdLinks-removebg-preview__1_-removebg-preview (2) (1)](https://user-images.githubusercontent.com/105658077/191167815-78af15c2-113e-4a4c-87a9-b2b7a0672e28.png)
-
+algunas estadísticas.![mdLinks-removebg-preview__1_-removebg-preview (2) (1)]
 
 
 ### 2. Diagrama de flujo
