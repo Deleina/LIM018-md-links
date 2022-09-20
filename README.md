@@ -1,6 +1,7 @@
 # Markdown Links
 
-![md](https://raw.githubusercontent.com/Deleina/LIM018-md-links/Deleina/mdLinks.png)
+(https://raw.githubusercontent.com/Deleina/LIM018-md-links/Deleina/md-Links.png)
+
 
 
 ## Indice
